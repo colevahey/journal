@@ -73,7 +73,5 @@ Finally updated my pickem to incorporate javascript ES6 with first class functio
 I have been doing a lot of work with the pickem program, it is coming along nicely now. I think I will save the user data to a file on their computer, which can then be opened in a subsequent session where their games will be checked. All in all, making a lot of progress on this project.  
 ### Sep-08-2018 20:27  
 Trying a little something different  
-#### Sep-08-2018 20:28  
-Trying a little something different  
 ### Sep-08-2018 20:28  
 Ok this should be better  
