@@ -71,3 +71,5 @@ Just added my first ever Version on Github! My attendance project is complete if
 Finally updated my pickem to incorporate javascript ES6 with first class functions and I feel great. I think this project will suffice to show my DOM capabilities, and I will probably open an issue on it that \@s Rob to show him the work. I think this is all that is required for me to be considered a Skilstak developer, but going through the codecademy javascript lessons wont hurt  
 ### 08212018 19:38  
 I have been doing a lot of work with the pickem program, it is coming along nicely now. I think I will save the user data to a file on their computer, which can then be opened in a subsequent session where their games will be checked. All in all, making a lot of progress on this project.  
+#### Sep-08-2018 20:27  
+Trying a little something different  
