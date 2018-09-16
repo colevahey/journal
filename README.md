@@ -75,3 +75,5 @@ I have been doing a lot of work with the pickem program, it is coming along nice
 Trying a little something different  
 ### Sep-08-2018 20:28  
 Ok this should be better  
+### Sep-16-2018  0:19  
+All in all, I made a TON of progress tonight with JARVIS. I am super excited for this project, and I finally got all the structures right in golang. Finally being able to see the data I got was great. However, I will have to make it more comprehensive because I was only using it for the most pertinent results - easy things like populations and GDPs but it had trouble with harder data types like locations and such. More to come.  
